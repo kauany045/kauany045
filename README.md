@@ -1,10 +1,10 @@
-## Hi there 👋
-
-<!--
-**kauany045/kauany045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+##oie 🤙
+boas vindas ao meu perfil 🤛
+meu nome e kauany teixeira
+✔️estou estudando alura
+✔️estou desenvolvendo na linguagem javascript
+✔️utilizo esse espaço para minha organização e compartilhamento dos seus projetos desenvolvidos
+      VOCÊ PODE ENTRAR EM CONTATO COMIGO 📧
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
